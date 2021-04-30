@@ -1,0 +1,14 @@
+C:\Users\Fatma\source\repos\UnitTestWebAPI\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\Fatma\source\repos\UnitTestWebAPI\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Fatma\source\repos\UnitTestWebAPI\Model\bin\Debug\Model.dll.config
+C:\Users\Fatma\source\repos\UnitTestWebAPI\Model\bin\Debug\Model.dll
+C:\Users\Fatma\source\repos\UnitTestWebAPI\Model\bin\Debug\Model.pdb
+C:\Users\Fatma\source\repos\UnitTestWebAPI\Model\bin\Debug\EntityFramework.dll
+C:\Users\Fatma\source\repos\UnitTestWebAPI\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Fatma\source\repos\UnitTestWebAPI\Model\bin\Debug\EntityFramework.xml
+C:\Users\Fatma\source\repos\UnitTestWebAPI\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Fatma\source\repos\UnitTestWebAPI\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\Fatma\source\repos\UnitTestWebAPI\Model\obj\Debug\Model.dll
+C:\Users\Fatma\source\repos\UnitTestWebAPI\Model\obj\Debug\Model.pdb
+C:\Users\Fatma\source\repos\UnitTestWebAPI\Model\obj\Debug\Model.Migrations.v1.resources
+C:\Users\Fatma\source\repos\UnitTestWebAPI\Model\obj\Debug\Model.csproj.GenerateResource.cache

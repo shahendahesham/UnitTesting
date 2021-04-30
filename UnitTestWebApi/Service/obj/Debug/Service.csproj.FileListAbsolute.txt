@@ -1,0 +1,15 @@
+C:\Users\Fatma\source\repos\UnitTestWebAPI\Service\bin\Debug\Service.dll
+C:\Users\Fatma\source\repos\UnitTestWebAPI\Service\bin\Debug\Service.pdb
+C:\Users\Fatma\source\repos\UnitTestWebAPI\Service\obj\Debug\Service.csprojAssemblyReference.cache
+C:\Users\Fatma\source\repos\UnitTestWebAPI\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+C:\Users\Fatma\source\repos\UnitTestWebAPI\Service\obj\Debug\Service.dll
+C:\Users\Fatma\source\repos\UnitTestWebAPI\Service\obj\Debug\Service.pdb
+C:\Users\Fatma\source\repos\UnitTestWebAPI\Service\bin\Debug\Service.dll.config
+C:\Users\Fatma\source\repos\UnitTestWebAPI\Service\bin\Debug\EntityFramework.dll
+C:\Users\Fatma\source\repos\UnitTestWebAPI\Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Fatma\source\repos\UnitTestWebAPI\Service\bin\Debug\Model.dll
+C:\Users\Fatma\source\repos\UnitTestWebAPI\Service\bin\Debug\Model.pdb
+C:\Users\Fatma\source\repos\UnitTestWebAPI\Service\bin\Debug\Model.dll.config
+C:\Users\Fatma\source\repos\UnitTestWebAPI\Service\bin\Debug\EntityFramework.xml
+C:\Users\Fatma\source\repos\UnitTestWebAPI\Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Fatma\source\repos\UnitTestWebAPI\Service\obj\Debug\Service.csproj.CopyComplete
